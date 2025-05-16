@@ -1,0 +1,10 @@
+python-dotenv
+requests
+gtts
+transformers
+torch
+moviepy==1.0.3
+imageio
+imageio-ffmpeg
+Pillow
+tqdm
